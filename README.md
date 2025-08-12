@@ -2,7 +2,14 @@
 
 After downloading the DMG file from GitHub, We can either download this file and run the shell script, or follow the four commands below manually:
  
-Method 1 : 
+Method 1 :
+
+step 1 : 
+https://github.com/iamneo-jarvis/neo-browser-mac-build/blob/main/install-neo-browser.sh
+
+Download this file from the github repository
+
+step 2 :
 sh /Downloads/install-neo-browser.sh
 
 Method 2 :
