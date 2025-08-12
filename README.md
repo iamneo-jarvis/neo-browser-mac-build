@@ -10,7 +10,7 @@ https://github.com/iamneo-jarvis/neo-browser-mac-build/blob/main/install-neo-bro
 Download this file from the github repository
 
 step 2 :
-sh /Downloads/install-neo-browser.sh
+sh ~/Downloads/install-neo-browser.sh
 
 Method 2 :
 
