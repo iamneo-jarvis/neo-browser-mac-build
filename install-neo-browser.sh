@@ -1,8 +1,8 @@
 #!/bin/bash
 set -euo pipefail
 
-DMG_PATH="$HOME/Downloads/Neo-Browser-1.1.7.dmg"
-VOLUME_NAME="Neo Browser 1.1.7"
+DMG_PATH="$HOME/Downloads/Neo-Browser-1.1.8.dmg"
+VOLUME_NAME="Neo Browser 1.1.8"
 APP_NAME="Neo Browser.app"
 DESTINATION="$HOME/Applications"
 
